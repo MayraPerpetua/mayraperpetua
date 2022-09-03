@@ -3,7 +3,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Perpetua_Tech-1ca0f1?style=flat-&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PranjalBhard)](https://twitter.com/perpetua_tech) 
 [![Linkedin Badge](https://img.shields.io/badge/-mayraperpetua-blue?style=flat-&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/mayra-perpetua/)
 
-<img align="center" height="260" width="750"  src=https://github.com/MayraPerpetua/mayraperpetua/blob/main/girl%20coding.gif></img>
+<div align="center">
+<img height="240" width="900"  src="https://github.com/MayraPerpetua/mayraperpetua/blob/main/girl%20coding.gif"></img>
+</div>
 
 ##  About me <img src="https://c.tenor.com/5x-c2BNJq9QAAAAi/love-ily.gif" width="60">
 
