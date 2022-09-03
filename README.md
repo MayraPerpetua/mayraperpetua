@@ -1,25 +1,27 @@
 ## Greetings! I'm May! <img src="https://c.tenor.com/f8q9othoSpgAAAAi/peach-cat.gif" width="65"> 
-[![Twitter Badge](https://img.shields.io/badge/-@Perpetua_Tech-1ca0f1?style=flat-&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PranjalBhard)](https://twitter.com/perpetua_tech) 
-[![Linkedin Badge](https://img.shields.io/badge/-mayraperpetua-blue?style=flat-&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/mayra-perpetua/)
-<img align="right" alt="Gif-bts" height="230" width="230" src="https://c.tenor.com/t6293JzhO8sAAAAd/superiorlibra-typing.gif">
-
-- 📚 I'm a IT student
-- 💜 UX UI Designer
-- 🚀 I'm interested in Aerospace Technology 
-- 🎨 A artist learning to speak with the soul  
-- 🤘 I love Power Metal, K-pop and Celtic music 
-- 🦋 And now, I'm just a little girl training to be a Web Developer
-
-## My codes <img src="https://c.tenor.com/apGSV-Mt_bgAAAAi/tkthao219-bubududu.gif" width="60">
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayraperpetua&show_icons=true&all_commits=true&count_private=true&theme=material-palenight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayraperpetua&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
-## About my education <img src="https://c.tenor.com/5x-c2BNJq9QAAAAi/love-ily.gif" width="60">
+## About my education <img src="https://c.tenor.com/apGSV-Mt_bgAAAAi/tkthao219-bubududu.gif" width="60">
+[![Twitter Badge](https://img.shields.io/badge/-@Perpetua_Tech-1ca0f1?style=flat-&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PranjalBhard)](https://twitter.com/perpetua_tech) 
+[![Linkedin Badge](https://img.shields.io/badge/-mayraperpetua-blue?style=flat-&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/mayra-perpetua/)
 
 <p>I am currently graduating in Analysis and Systems Development by the Federal Institute of Education, Science and Technology (IFRN), and  I'm studying Internet Computing by Digital Metropolis Institute (IMD). </p>
 <p>I am interested in Web Development, UX UI Design, Robotics and Aerospace Technology.</p>
 <p>Well, in other words: I enjoy working with technology :)</p>
+
+##  About me <img src="https://c.tenor.com/5x-c2BNJq9QAAAAi/love-ily.gif" width="60">
+<img align="right" alt="Gif-bts" height="230" width="230" src="https://c.tenor.com/t6293JzhO8sAAAAd/superiorlibra-typing.gif">
+
+- 📚 I'm a IT student
+- 💜 UX UI Designer 
+- 🚀 I'm interested in Aerospace Technology 
+- 🎨 A artist learning to speak with the soul  
+- 🤘 I love Power Metal, K-pop and Celtic music 
+- 🦋 And now, I'm just a little girl training to be a Web Developer
+
+
 
 
