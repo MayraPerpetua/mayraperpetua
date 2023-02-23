@@ -2,7 +2,6 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@Perpetua_Tech-1ca0f1?style=flat-&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PranjalBhard)](https://twitter.com/perpetua_tech) 
 [![Linkedin Badge](https://img.shields.io/badge/-mayraperpetua-blue?style=flat-&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/mayra-perpetua/)
-[![Visualizações](https://komarev.com/ghpvc/?username=MayraPerpetua&style=flat&color=blueviolet)](https://komarev.com/ghpvc/?username=MayraPerpetua&style=flat&color=blueviolet)
 
 <div align="center">
 <img height="240" width="900"  src="https://github.com/MayraPerpetua/mayraperpetua/blob/main/girl%20coding.gif"></img>
