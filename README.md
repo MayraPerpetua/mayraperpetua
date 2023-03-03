@@ -12,7 +12,7 @@
 - 📚 I'm a IT student
 - 💜 UX UI Designer 
 - 🚀 I'm interested in Aerospace Technology 
-- 🎨 A artist learning to speak with the soul  
+- 🎨 An artist learning to speak with the soul  
 - 🤘 I love Power Metal, K-pop and Celtic music 
 - 🦋 And now, I'm just a little girl training to be a Web Developer
 
